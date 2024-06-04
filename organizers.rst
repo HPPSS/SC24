@@ -25,7 +25,7 @@ Sunita Chandrasekaran (University of Delaware)
 
 .. figure:: images/sunita.jpg
    :align: left
-   :scale: 15 %
+   :scale: 20 %
 
 Sunita Chandrasekaran is an Associate Professor with the Department of Computer and Information Sciences and co-directs
 the AI center of Excellence at the University of Delaware, USA. Her research spans HPC, compilers, exascale computing,
@@ -34,8 +34,6 @@ solar physics and bioinformatics. She received her Ph.D. on Tools and Algorithms
 from Nanyang Technological University, Singapore. She is a recipient of the 2016 IEEE-CS TCHPC Award for Excellence for
 Early Career Researchers in High Performance Computing. She has held various leadership positions in HPC conferences
 and workshops over the past several years.
-
-|
 
 |
 
