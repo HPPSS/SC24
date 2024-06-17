@@ -23,12 +23,15 @@ future of Python in HPC and science.
 
 Atlanta, Georgia, November 17-22
 
+HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET.
+
 .. toctree::
     :caption: Contents
     :maxdepth: 1
 
     About <about.rst>
     Organization <organizers.rst>
+    Call for Demos! <callfordemos.rst>
     Schedule <schedule.rst>
 
 
