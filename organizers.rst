@@ -75,7 +75,6 @@ Technical Program Committee
 
 * Venkat Vishwanath (Argonne National Labs)
 * Christine Simpson (Argonne National Labs)
-* Torsten Hoefler (ETH Zurich)
 * Brandon Cook (National Energy Research Scientific Computing Center)
 * Rollin Thomas (National Energy Research Scientific Computing Center)
 * Bjoern Enders (National Energy Research Scientific Computing Center)
