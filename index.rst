@@ -21,7 +21,7 @@ practices and recent success stories, panel sessions that discuss details of imp
 sessions for hands-on enthusiasts – the workshop will serve as a requirements gathering exercise for the
 future of Python in HPC and science.
 
-Atlanta, Georgia, November 17-22
+Atlanta, Georgia, November 17-22, 2024
 
 HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET.
 
