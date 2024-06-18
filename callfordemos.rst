@@ -11,7 +11,7 @@ Important Dates
 ===============
 
 * Submission opens: June 17, 2024
-* Paper Submission deadline: updated to August 16, 2024
+* Paper Submission deadline: August 16, 2024
 * Decisions: September 6, 2024
 * Camera ready due: September 27, 2024
 * SC24 conference: November 17-22, 2024
