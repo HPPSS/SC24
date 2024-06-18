@@ -11,10 +11,10 @@ Important Dates
 ===============
 
 * Submission opens: June 17, 2024
-* Paper Submission deadline: updated to August 16, 2023
-* Decisions: September 6, 2023
-* Camera ready due: September 27, 2023
-* SC24 conference: November 17-22
+* Paper Submission deadline: updated to August 16, 2024
+* Decisions: September 6, 2024
+* Camera ready due: September 27, 2024
+* SC24 conference: November 17-22, 2024
 * HPPSS half-day workshop: afternoon of November 18th
 
 
