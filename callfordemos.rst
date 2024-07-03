@@ -8,7 +8,8 @@ helpful for the audience's understanding, but be sure to show and discuss how th
 
 While we are accepting submissions to present at this year's workshop, note that submissions will not be
 included in the SC proceedings. The purpose of submissions are to help us plan the event and provide feedback to
-submitters. We do plan to provide links to submissions through the HPPSS GitHub and website.
+submitters. Our intention is that this makes it easier for submitters and we get a broader engagement from the
+community. We do plan to provide links to submissions through the HPPSS GitHub and website.
 
 
 Important Dates
