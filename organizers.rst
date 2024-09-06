@@ -73,12 +73,9 @@ Physics from the University of California, Los Angeles.
 Technical Program Committee
 ===========================
 
-* Venkat Vishwanath (Argonne National Labs)
-* Christine Simpson (Argonne National Labs)
-* Brandon Cook (National Energy Research Scientific Computing Center)
-* Rollin Thomas (National Energy Research Scientific Computing Center)
-* Bjoern Enders (National Energy Research Scientific Computing Center)
 * Eric Eilertson (Microsoft)
-* Sreenivas Rangan Sukumar (Hewlett Packard Enterprise)
+* Bjoern Enders (National Energy Research Scientific Computing Center)
+* Fernanda Foertter (Voltron Data)
+* Khalid Hossain (Argonne National Labs)
 * Davin Potts (Appliomics)
-* Benjamin Keen (Microsoft)
+* Sreenivas Rangan Sukumar (Hewlett Packard Enterprise)
