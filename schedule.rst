@@ -8,7 +8,7 @@ Matt Rocklin (Dask/Coiled) - Invited Speaker
 
 .. figure:: images/rocklin_profile.png
    :align: left
-   :scale: 100 %
+   :scale: 60 %
 
 Matthew is an open source software developer in the Python data ecosystem. He maintains several PyData libraries, 
 but today focuses mostly on Dask, a library for parallel computing. Matthew worked for Anaconda for several years, 
