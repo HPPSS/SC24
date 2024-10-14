@@ -5,7 +5,7 @@ Workshop Schedule
 
    <a href="https://sc23.conference-program.com/" target="_blank">Supercomputing 2024 Schedule</a>
 
-HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET in romm B304. See the |SC24Sched| for more details.
+HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET in room B304. See the |SC24Sched| for more details.
 
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 | Event                                                     | Speaker(s)                                                  | Time                |
