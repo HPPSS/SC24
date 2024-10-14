@@ -7,39 +7,45 @@ Workshop Schedule
 
 HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET in romm B304. See the |SC24Sched| for more details.
 
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Event                                                          | Speaker(s)                                                               | Time                |
-+================================================================+==========================================================================+=====================+
-| HPPSS Introduction                                             | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala, Sam Foreman       | 2 PM - 2:05 PM      |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Invited Speaker                                                | Matthew Rocklin                                                          | 2:05 PM - 2:55 PM   |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Lightning Talks Announcement                                   | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala, Sam Foreman       | 2:55 PM - 3 PM      |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Afternoon Break                                                |                                                                          | 3 PM - 3:30 PM      |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Exploring Data Science with Arkouda: A Practical Introduction  | Ben McDonald                                                             | 3:30 PM - 3:47 PM   |
-|                                                                |                                                                          |                     |
-| to Scalable Data Science                                       |                                                                          |                     |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| CUDA Python Object Models and Parallelism Models               | Andy Terrel                                                              | 3:47 PM - 4:04 PM   |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Seamlessly scale your python program from single CPU core to   | Wonchan Lee, Manolis Papadakis, Mike Bauer, Bo Dong                      | 4:04 PM - 4:21 PM   |
-|                                                                |                                                                          |                     |
-| multi-GPU multi-node HPC cluster with cuNumeric                |                                                                          |                     |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Visualizing Workflows with the Dragon Telemetry Service        | Indira Pimpalkhare, Colin Wahl, Maria Kalantzi                           | 4:21 PM - 4:38 PM   |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Accelerating Python Applications with Dask and ProxyStore      | J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson,              | 4:38 PM - 4:55 PM   |
-|                                                                |                                                                          |                     |
-|                                                                | Ian Foster, Kyle Chard                                                   |                     |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| PyOMP: Parallel programming for CPUs and GPUs with OpenMP and  | Giorgis Georgakoudis, Todd Anderson, Stuart Archibald,                   | 4:55 PM - 5:12 PM   |
-|                                                                |                                                                          |                     |
-| Python                                                         | Bronis de Supinski, Timothy Mattson                                      |                     |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
-| Lightning Talks and Concluding Remarks                         | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala, Sam Foreman       | 5:12 PM - 5:30 PM   |
-+----------------------------------------------------------------+--------------------------------------------------------------------------+---------------------+
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Event                                                          | Speaker(s)                                                  | Time                |
++================================================================+=============================================================+=====================+
+| HPPSS Introduction                                             | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala,      | 2 PM - 2:05 PM      |
+|                                                                |                                                             |                     |
+|                                                                | Sam Foreman                                                 |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Invited Speaker                                                | Matthew Rocklin                                             | 2:05 PM - 2:55 PM   |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Lightning Talks Announcement                                   | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala,      | 2:55 PM - 3 PM      |
+|                                                                |                                                             |                     |
+|                                                                | Sam Foreman                                                 |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Afternoon Break                                                |                                                             | 3 PM - 3:30 PM      |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Exploring Data Science with Arkouda: A Practical Introduction  | Ben McDonald                                                | 3:30 PM - 3:47 PM   |
+|                                                                |                                                             |                     |
+| to Scalable Data Science                                       |                                                             |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| CUDA Python Object Models and Parallelism Models               | Andy Terrel                                                 | 3:47 PM - 4:04 PM   |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Seamlessly scale your python program from single CPU core to   | Wonchan Lee, Manolis Papadakis, Mike Bauer, Bo Dong         | 4:04 PM - 4:21 PM   |
+|                                                                |                                                             |                     |
+| multi-GPU multi-node HPC cluster with cuNumeric                |                                                             |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Visualizing Workflows with the Dragon Telemetry Service        | Indira Pimpalkhare, Colin Wahl, Maria Kalantzi              | 4:21 PM - 4:38 PM   |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Accelerating Python Applications with Dask and ProxyStore      | J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, | 4:38 PM - 4:55 PM   |
+|                                                                |                                                             |                     |
+|                                                                | Ian Foster, Kyle Chard                                      |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| PyOMP: Parallel programming for CPUs and GPUs with OpenMP and  | Giorgis Georgakoudis, Todd Anderson, Stuart Archibald,      | 4:55 PM - 5:12 PM   |
+|                                                                |                                                             |                     |
+| Python                                                         | Bronis de Supinski, Timothy Mattson                         |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Lightning Talks and Concluding Remarks                         | Pete Mendygral, Sunita Chandrasekaran, Daniel Margala,      | 5:12 PM - 5:30 PM   |
+|                                                                |                                                             |                     |
+|                                                                | Sam Foreman                                                 |                     |
++----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
 
 
 Matthew Rocklin (Dask/Coiled) - Invited Speaker
