@@ -33,11 +33,11 @@ HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET in romm B3
 | to multi-GPU multi-node HPC cluster with cuNumeric        |                                                             |                     |
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 | Visualizing Workflows with the Dragon Telemetry Service   | Indira Pimpalkhare, Colin Wahl, Maria Kalantzi              | 4:21 PM - 4:38 PM   |
-+----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
-| Accelerating Python Applications with Dask and ProxyStore | J Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, | 4:38 PM - 4:55 PM   |
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
+| Accelerating Python Applications with Dask and ProxyStore | J Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson,  | 4:38 PM - 4:55 PM   |
 |                                                           |                                                             |                     |
 |                                                           | Ian Foster, Kyle Chard                                      |                     |
-+----------------------------------------------------------------+-------------------------------------------------------------+---------------------+
++-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 | PyOMP: Parallel programming for CPUs and GPUs with OpenMP | Giorgis Georgakoudis, Todd Anderson, Stuart Archibald,      | 4:55 PM - 5:12 PM   |
 |                                                           |                                                             |                     |
 | and Python                                                | Bronis de Supinski, Timothy Mattson                         |                     |
