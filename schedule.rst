@@ -6,6 +6,7 @@ Workshop Schedule
    <a href="https://sc24.conference-program.com/session/?sess=sess761" target="_blank">Link to SC24 HPPSS Schedule</a>
 
 HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET in room B304. See the |SC24Sched| for more details.
+Links to short papers and abstracts are available from the :ref:`presentations` page.
 
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 | Event                                                     | Speaker(s)                                                  | Time                |
@@ -22,7 +23,7 @@ HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET in room B3
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
 | Afternoon Break                                           |                                                             | 3 PM - 3:30 PM      |
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
-| :ref:`Exploring Data Science with Arkouda<Arkouda>`: A Practical          | Ben McDonald                                                | 3:30 PM - 3:47 PM   |
+| Exploring Data Science with Arkouda: A Practical          | Ben McDonald                                                | 3:30 PM - 3:47 PM   |
 |                                                           |                                                             |                     |
 | Introduction to Scalable Data Science                     |                                                             |                     |
 +-----------------------------------------------------------+-------------------------------------------------------------+---------------------+
