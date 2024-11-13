@@ -33,6 +33,7 @@ HPPSS will take place on Monday, November 18th from 2 PM - 5:30 PM ET.
     Organization <organizers.rst>
     Call for Demos! <callfordemos.rst>
     Schedule <schedule.rst>
+    Presentations <papers.rst>
 
 
 Diversity and Inclusion
