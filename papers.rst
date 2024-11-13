@@ -19,7 +19,7 @@ Demos
 
 .. |ArkoudaPaper| raw:: html
 
-   <a href="papers/arkouda-demo-hppss.pdf" target="_blank">Short Paper</a>
+   <a href="_static/arkouda-demo-hppss.pdf" target="_blank">Short Paper</a>
 
 .. |CUDA| raw:: html
 
@@ -46,55 +46,49 @@ Demos
 Exploring Data Science with Arkouda: A Practical Introduction to Scalable Data Science
 --------------------------------------------------------------------------------------
 
-Presenter: Ben McDonald
-
-|Arkouda|
-|ArkoudaPaper|
+* Presenter: Ben McDonald
+* |Arkouda|
+* |ArkoudaPaper|
 
 
 
 Work-in-progress: CUDA Python object models and parallelism models
 ------------------------------------------------------------------
 
-Presenter: Andy Terrel
-
-|CUDA|
+* Presenter: Andy Terrel
+* |CUDA|
 
 
 
 Seamlessly scale your python program from single CPU core to multi-GPU multi-node HPC cluster with cuNumeric
 ------------------------------------------------------------------------------------------------------------
 
-Presenter: Wonchan Lee, Manolis Papadakis, Mike Bauer, Bo Dong
-
-|cuNumeric|
+* Presenter: Wonchan Lee, Manolis Papadakis, Mike Bauer, Bo Dong
+* |cuNumeric|
 
 
 
 Visualizing Workflows with the Dragon Telemetry Service
 -------------------------------------------------------
 
-Presenter: Indira Pimpalkhare, Colin Wahl, Maria Kalantzi
-
-|Dragon|
+* Presenter: Indira Pimpalkhare, Colin Wahl, Maria Kalantzi
+* |Dragon|
 
 
 
 Accelerating Python Applications with Dask and ProxyStore
 ---------------------------------------------------------
 
-Presenter: J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, Ian Foster, Kyle Chard
-
-|ProxyStore|
+* Presenter: J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, Ian Foster, Kyle Chard
+* |ProxyStore|
 
 
 
 PyOMP: Parallel programming for CPUs and GPUs with OpenMP and Python
 --------------------------------------------------------------------
 
-Presenter: Giorgis Georgakoudis, Todd Anderson, Stuart Archibald, Bronis de Supinski, Timothy Mattson
-
-|PyOMP|
+* Presenter: Giorgis Georgakoudis, Todd Anderson, Stuart Archibald, Bronis de Supinski, Timothy Mattson
+* |PyOMP|
 
 
 
