@@ -1,4 +1,4 @@
-.. _presentations::
+.. _presentations:
 
 Presentations
 +++++++++++++
