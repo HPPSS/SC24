@@ -5,9 +5,16 @@ Presentations
 
 .. |HPPSS| raw:: html
 
-   <a href="https://sc24.conference-program.com/session/?sess=sess761" target="_blank">Link to SC24 HPPSS Schedule</a>
+   <a href="https://sc24.conference-program.com/session/?sess=sess761" target="_blank">SC24 HPPSS Schedule</a>
 
-|HPPSS|
+.. |HPPSSZen| raw:: html
+
+   <a href="https://zenodo.org/communities/hppss/records" target="_blank">HPPSS Zenodo Community with Recorded Demos</a>
+
+Here are a few key links for this workshop:
+
+* |HPPSS| 
+* |HPPSSZen| 
 
 
 Demos
@@ -15,31 +22,51 @@ Demos
 
 .. |Arkouda| raw:: html
 
-   <a href="https://sc24.conference-program.com/presentation/?id=ws_hppss102&sess=sess761" target="_blank">Link to SC Presentation</a>
+   <a href="https://sc24.conference-program.com/presentation/?id=ws_hppss102&sess=sess761" target="_blank">SC Presentation</a>
 
 .. |ArkoudaPaper| raw:: html
 
    <a href="_static/arkouda-demo-hppss.pdf" target="_blank">Short Paper</a>
 
+.. |ArkoudaZen| raw:: html
+
+   <a href="https://zenodo.org/records/14052268" target="_blank">Demo Recording</a>
+
 .. |CUDA| raw:: html
 
-    <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss104&sess=sess761" target="_blank">Link to SC Presentation</a>
+    <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss104&sess=sess761" target="_blank">SC Presentation</a>
 
 .. |cuNumeric| raw:: html
 
-   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss106&sess=sess761" target="_blank">Link to SC Presentation</a>
+   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss106&sess=sess761" target="_blank">SC Presentation</a>
 
 .. |Dragon| raw:: html
 
-    <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss101&sess=sess761" target="_blank">Link to SC Presentation</a>
+   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss101&sess=sess761" target="_blank">SC Presentation</a>
+
+.. |DragonZen| raw:: html
+
+   <a href="https://zenodo.org/records/13327798" target="_blank">Demo Recording</a>
 
 .. |ProxyStore| raw:: html
 
-   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss103&sess=sess761" target="_blank">Link to SC Presentation</a>
+   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss103&sess=sess761" target="_blank">SC Presentation</a>
+
+.. |ProxyStoreZen| raw:: html
+
+   <a href="https://zenodo.org/records/13328934"  target="_blank">Demo Recording</a>
 
 .. |PyOMP| raw:: html
 
-   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss105&sess=sess761" target="_blank">Link to SC Presentation</a>
+   <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss105&sess=sess761" target="_blank">SC Presentation</a>
+
+.. |PyOMPZen| raw:: html
+
+   <a href="https://zenodo.org/records/14006515" target="_blank">Demo Recording</a>
+
+.. |PyOMPPaper| raw:: html
+
+   <a href="_static/2024_sc24_hppss_pyomp-final.pdf" target="_blank">Short Paper</a>
 
 
 
@@ -49,6 +76,7 @@ Exploring Data Science with Arkouda: A Practical Introduction to Scalable Data S
 * Presenter: Ben McDonald
 * |Arkouda|
 * |ArkoudaPaper|
+* |ArkoudaZen|
 
 
 
@@ -73,6 +101,7 @@ Visualizing Workflows with the Dragon Telemetry Service
 
 * Presenter: Indira Pimpalkhare, Colin Wahl, Maria Kalantzi
 * |Dragon|
+* |DragonZen|
 
 
 
@@ -81,6 +110,7 @@ Accelerating Python Applications with Dask and ProxyStore
 
 * Presenter: J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, Ian Foster, Kyle Chard
 * |ProxyStore|
+* |ProxyStoreZen|
 
 
 
@@ -89,6 +119,8 @@ PyOMP: Parallel programming for CPUs and GPUs with OpenMP and Python
 
 * Presenter: Giorgis Georgakoudis, Todd Anderson, Stuart Archibald, Bronis de Supinski, Timothy Mattson
 * |PyOMP|
+* |PyOMPPaper|
+* |PyOMPZen|
 
 
 
