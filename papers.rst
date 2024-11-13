@@ -1,7 +1,12 @@
 Presentations
 +++++++++++++
 
-https://sc24.conference-program.com/session/?sess=sess761
+.. |HPPSS| raw:: html
+
+   <a href="https://sc24.conference-program.com/session/?sess=sess761" target="_blank">Link to SC24 HPPSS Schedule</a>
+
+|HPPSS|
+
 
 Demos
 =====
@@ -35,6 +40,8 @@ Demos
    <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss105&sess=sess761" target="_blank">Link to SC Presentation</a>
 
 
+.. _Arkouda:
+
 Exploring Data Science with Arkouda: A Practical Introduction to Scalable Data Science
 --------------------------------------------------------------------------------------
 
@@ -44,6 +51,7 @@ Presenter: Ben McDonald
 |ArkoudaPaper|
 
 
+.. _CUDA:
 
 Work-in-progress: CUDA Python object models and parallelism models
 ------------------------------------------------------------------
@@ -53,6 +61,8 @@ Presenter: Andy Terrel
 |CUDA|
 
 
+.. _cuNumeric:
+
 Seamlessly scale your python program from single CPU core to multi-GPU multi-node HPC cluster with cuNumeric
 ------------------------------------------------------------------------------------------------------------
 
@@ -60,6 +70,8 @@ Presenter: Wonchan Lee, Manolis Papadakis, Mike Bauer, Bo Dong
 
 |cuNumeric|
 
+
+.. _Dragon:
 
 Visualizing Workflows with the Dragon Telemetry Service
 -------------------------------------------------------
@@ -69,6 +81,8 @@ Presenter: Indira Pimpalkhare, Colin Wahl, Maria Kalantzi
 |Dragon|
 
 
+.. _ProxyStore:
+
 Accelerating Python Applications with Dask and ProxyStore
 ---------------------------------------------------------
 
@@ -77,6 +91,8 @@ Presenter: J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, Ian Foste
 |ProxyStore|
 
 
+.. _PyOMP:
+
 PyOMP: Parallel programming for CPUs and GPUs with OpenMP and Python
 --------------------------------------------------------------------
 
@@ -84,6 +100,8 @@ Presenter: Giorgis Georgakoudis, Todd Anderson, Stuart Archibald, Bronis de Supi
 
 |PyOMP|
 
+
+.. _Lightning:
 
 Lightning Talks
 ===============
