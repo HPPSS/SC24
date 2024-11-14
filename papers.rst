@@ -52,6 +52,10 @@ Demos
 
    <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss103&sess=sess761" target="_blank">SC Presentation</a>
 
+.. |ProxyStorePaper| raw:: html
+
+   <a href="_static/hppss24_dask_proxystore.pdf" target="_blank">Short Paper</a>
+
 .. |ProxyStoreZen| raw:: html
 
    <a href="https://zenodo.org/records/13328934"  target="_blank">Demo Recording</a>
@@ -110,6 +114,7 @@ Accelerating Python Applications with Dask and ProxyStore
 
 * Presenter: J. Gregory Pauloski, Klaudiusz Rydzy, Valerie Hayot-Sasson, Ian Foster, Kyle Chard
 * |ProxyStore|
+* |ProxyStorePaper|
 * |ProxyStoreZen|
 
 
