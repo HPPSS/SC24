@@ -44,6 +44,10 @@ Demos
 
    <a href="https://sc24.conference-program.com/?post_type=page&p=14&id=ws_hppss101&sess=sess761" target="_blank">SC Presentation</a>
 
+.. |DragonPaper| raw:: html
+
+   <a href="_static/DragonTelemetryService_SC24_final.pdf" target="_blank">Short Paper</a>
+
 .. |DragonZen| raw:: html
 
    <a href="https://zenodo.org/records/13327798" target="_blank">Demo Recording</a>
@@ -105,6 +109,7 @@ Visualizing Workflows with the Dragon Telemetry Service
 
 * Presenter: Indira Pimpalkhare, Colin Wahl, Maria Kalantzi
 * |Dragon|
+* |DragonPaper|
 * |DragonZen|
 
 
